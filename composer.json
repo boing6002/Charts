@@ -1,5 +1,5 @@
 {
-    "name": "laravel-enso/charts",
+    "name": "boing6002/charts",
     "description": "Server-side data builder for Chart.js, with a VueJS component for the frontend.",
     "keywords": [
         "laravel-enso",
@@ -17,9 +17,7 @@
         }
     ],
     "require": {
-        "php": ">=7.1.0",
-        "laravel/framework": "5.7.*",
-        "laravel-enso/vuecomponents": "2.7.*"
+        "php": ">=7.1.0"
     },
     "autoload": {
         "psr-4": {
